@@ -25,3 +25,6 @@ Hi im mikhail bugrovsky (real name)<br>Age:13 years<br>Country:Russia🇷🇺<br
 [![](https://visitcount.itsvg.in/api?id=Redcorehash&icon=4&color=10)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Redcorehash&label=Person%20view%20this&color=12&icon=4&pretty=true" />
+</a>
